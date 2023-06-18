@@ -1,0 +1,12 @@
+.menu a {
+  color: #000;
+  background-color: transparent;
+}
+
+.menu a:hover {
+  color: #c1c1c1;
+}
+
+.menu a.active {
+  color: red;
+}

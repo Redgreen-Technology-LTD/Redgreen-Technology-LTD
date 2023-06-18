@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "63918eaa485a35eb8cfe186c",
+    "name": "ABM Obaidullah",
+    "designation": "MANAGING DIRECTROR",
+    "details": "He is honorable Managing Director of Redgreen Technology LTD.",
+    "facebook_link": "https://www.facebook.com/abm.obaidullah",
+    "twitter_link": "https://www.twitter.com/abm.obaidullah",
+    "linkedin_link": "https://www.linkedin.com/abm.obaidullah",
+    "file": "./assets/images/team/ABM.png"
+  },
+  {
+    "_id": "6395a133fa83185d2ef38f15",
+    "name": "Esrat Ria",
+    "designation": "SR. MANAGER",
+    "details": "She is honorable SR. Manager of Redgreen Technology LTD.",
+    "facebook_link": "https://www.facebook.com",
+    "twitter_link": "https://www.twitter.com",
+    "linkedin_link": "https://www.linkedin.com",
+    "file": "./assets/images/team/Israt.png"
+  },
+  {
+    "_id": "6395a1d0fa83185d2ef38f16",
+    "name": "Debashish D. Dev",
+    "designation": "DEVOPS TECH LEAD",
+    "details": "He is honorable tech lead of Redgreen Technology LTD.",
+    "facebook_link": "https://www.facebook.com",
+    "twitter_link": "https://www.twitter.com",
+    "linkedin_link": "https://www.linkedin.com",
+    "file": "./assets/images/team/deb.png"
+  },
+  {
+    "_id": "63970ba0db42f476ee5ad772",
+    "name": "AM Antor",
+    "designation": "Jr. SOFTWARE ENGINEER",
+    "details": "He is honorable Jr. Software Engineer of Redgreen Technology LTD.",
+    "facebook_link": "https://www.facebook.com",
+    "twitter_link": "https://www.twitter.com",
+    "linkedin_link": "https://www.linkedin.com",
+    "file": "./assets/images/team/antor.png"
+  }
+]

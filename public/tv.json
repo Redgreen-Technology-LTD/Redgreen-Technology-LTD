@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "path": "/oneplus/y1g-32",
+    "pName": "OnePlus TV Y1G 32 Inch Android 11 Updated Global Version",
+    "pImage": "/assets/images/product/tv/oneplus/y1g-32/oneplus01.png",
+    "oneplus32": {
+      "images": {
+        "image1": "/assets/images/product/tv/oneplus/y1g-32/oneplus01.png",
+        "image2": "/assets/images/product/tv/oneplus/y1g-32/oneplus02.png",
+        "image3": "/assets/images/product/tv/oneplus/y1g-32/oneplus03.png",
+        "image4": "/assets/images/product/tv/oneplus/y1g-32/oneplus04.png"
+      },
+      "name": "OnePlus TV Y1G 32 Inch Android 11 Updated Global Version",
+      "model": "Y1G",
+      "resolution": "1366 × 768 pixel",
+      "ram": "1GB",
+      "rom": "8GB",
+      "display": "32 inches"
+    }
+  },
+  {
+    "id": 2,
+    "path": "/oneplus/y1g-43",
+    "pName": "OnePlus 43 Y1G Y Series 43-Inch HD Smart Android LED Television",
+    "pImage": "/assets/images/product/tv/oneplus/y1g-32/oneplus01.png",
+    "oneplus43": {
+      "images": {
+        "image1": "/assets/images/product/tv/oneplus/y1g-32/oneplus01.png",
+        "image2": "/assets/images/product/tv/oneplus/y1g-32/oneplus02.png",
+        "image3": "/assets/images/product/tv/oneplus/y1g-32/oneplus03.png",
+        "image4": "/assets/images/product/tv/oneplus/y1g-32/oneplus04.png"
+      },
+      "name": "OnePlus 43 Y1G Y Series 43-Inch HD Smart Android LED Television",
+      "model": "Y1G",
+      "resolution": "1920 × 1080 pixel",
+      "ram": "1GB",
+      "rom": "8GB",
+      "display": "43 inches"
+    }
+  }
+]

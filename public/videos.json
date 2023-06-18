@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "content": "Chuwi HeroBook Pro | Master Every Scene",
+    "thumbnail": "/assets/images/videos/video1.jpg",
+    "link": "https://youtu.be/3Kf1qo55UCs"
+  },
+  {
+    "id": 2,
+    "content": "Chuwi CoreBook X | Master Every Scene",
+    "thumbnail": "/assets/images/videos/video2.jpg",
+    "link": "https://youtu.be/K-TirATU_xE"
+  },
+  {
+    "id": 3,
+    "content": "Chuwi FreeBook 360° | Key Features",
+    "thumbnail": "/assets/images/videos/video3.jpg",
+    "link": "https://youtu.be/-aNDTzN2ZCs"
+  }
+]

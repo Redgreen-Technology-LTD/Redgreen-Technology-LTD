@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "path": "/chuwi/chuwi-core",
+    "link": "https://www.google.com",
+    "banner": "./assets/images/blog/blog2.jpg"
+  },
+  {
+    "id": 2,
+    "path": "/chuwi/chuwi-free",
+    "link": "https://www.facebook.com",
+    "banner": "./assets/images/blog/blog3.jpg"
+  },
+  {
+    "id": 3,
+    "path": "/chuwi/chuwi-hero",
+    "link": "https://www.twitter.com",
+    "banner": "./assets/images/blog/blog1.jpg"
+  }
+]

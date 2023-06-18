@@ -1,0 +1,12 @@
+.products-divider {
+  height: 1px;
+  background-color: rgb(201, 201, 201);
+}
+
+.shadows {
+  transition: all 0.5s;
+}
+
+.shadows:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

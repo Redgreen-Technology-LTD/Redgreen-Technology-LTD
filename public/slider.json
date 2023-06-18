@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "banner": "https://i01.appmifile.com/webfile/globalimg/0320/TO-B/New-Product-Banner/Xiaomi-12-Pro-banner-en.jpg",
+    "link": "#slider1"
+  },
+  {
+    "id": 2,
+    "banner": "https://i01.appmifile.com/webfile/globalimg/0320/TO-B/New-Product-Banner/RN-11Pro-Plus5G-en-Banner.jpg",
+    "link": "#slider2"
+  },
+  {
+    "id": 3,
+    "banner": "https://i01.appmifile.com/webfile/globalimg/0320/TO-B/New-Product-Banner/Xiaomi-12T-Pro-Banner-en.jpg",
+    "link": "#slider3"
+  },
+  {
+    "id": 4,
+    "banner": "https://i01.appmifile.com/webfile/globalimg/0320/TO-B/New-Product-Banner/RN-11Pro-Plus5G-en-Banner.jpg",
+    "link": "#slider4"
+  }
+]

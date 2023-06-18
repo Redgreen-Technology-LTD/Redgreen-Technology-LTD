@@ -1,0 +1,37 @@
+.top-header {
+  color: #a6a6a6;
+  background-color: #212121;
+}
+
+.top-header p,
+a {
+  font-size: 12px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.top-header p:hover,
+a:hover {
+  color: #fff;
+}
+
+.top-divider {
+  width: 1px;
+  height: 10px;
+  margin: 5px 12px;
+  background-color: #a6a6a6;
+}
+
+@media only screen and (max-width: 600px) {
+  .top-header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .top-header p,
+  a {
+    font-size: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+}

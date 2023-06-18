@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "path": "/chuwi/chuwi-core",
+    "pName": "Chuwi Corebook X Core i5 10th Gen 14-Inch Laptop",
+    "pImage": "/assets/images/product/laptop/chuwi-core/core01.png",
+    "chuwi_core": {
+      "images": {
+        "image1": "/assets/images/product/laptop/chuwi-core/core01.png",
+        "image2": "/assets/images/product/laptop/chuwi-core/core02.png",
+        "image3": "/assets/images/product/laptop/chuwi-core/core03.png",
+        "image4": "/assets/images/product/laptop/chuwi-core/core04.png"
+      },
+      "name": "Chuwi Corebook X Core i5 10th Gen 14-Inch Laptop",
+      "model": "Chuwi Corebook X",
+      "processor": "Intel Core i5-10259U (6M Cache, 2.30 GHz up to 3.80 GHz)",
+      "ram": "8GB LPDDR4, Intel Iris Plus Graphics 655",
+      "storage": "512GB SSD (expansion up to 1TB)",
+      "display": "14-Inch (2160 x 1440) 3:2"
+    }
+  },
+  {
+    "id": 2,
+    "path": "/chuwi/chuwi-free",
+    "pName": "CHUWI FreeBook 360° Flip 2-in-1 Convertible Laptop 13.5''Touch Screen",
+    "pImage": "/assets/images/product/laptop/chuwi-free/free01.png",
+    "chuwi_hero": {
+      "images": {
+        "image1": "/assets/images/product/laptop/chuwi-free/free01.png",
+        "image2": "/assets/images/product/laptop/chuwi-free/free01.png",
+        "image3": "/assets/images/product/laptop/chuwi-free/free01.png",
+        "image4": "/assets/images/product/laptop/chuwi-free/free01.png"
+      },
+      "name": "CHUWI FreeBook 360° Flip 2-in-1 Convertible Laptop 13.5''Touch Screen",
+      "model": "CHUWI FreeBook 360°",
+      "processor": "Intel Celeron N5100 | Intel® UHD Graphics",
+      "ram": "12GB DDR4",
+      "storage": "512GB SSD",
+      "display": "13.5 Inch(1920 x 1080) IPS Display"
+    }
+  },
+  {
+    "id": 3,
+    "path": "/chuwi/chuwi-hero",
+    "pName": "Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 10",
+    "pImage": "/assets/images/product/laptop/chuwi-hero/hero01.png",
+    "chuwi_free": {
+      "images": {
+        "image1": "/assets/images/product/laptop/chuwi-hero/hero01.png",
+        "image2": "/assets/images/product/laptop/chuwi-hero/hero02.png",
+        "image3": "/assets/images/product/laptop/chuwi-hero/hero03.png",
+        "image4": "/assets/images/product/laptop/chuwi-hero/hero04.png"
+      },
+      "name": "Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 10",
+      "model": "Chuwi HeroBook Pro",
+      "processor": "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+      "ram": "8GB LPDDR4 RAM",
+      "storage": "256GB SSD",
+      "display": "14.1 Inch(1920 x 1080) IPS Anti-Glare Display"
+    }
+  }
+]
